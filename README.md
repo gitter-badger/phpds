@@ -1,5 +1,7 @@
 # PHPDevShell
 
+[![Join the chat at https://gitter.im/gregfr/phpds](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gregfr/phpds?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![PHPDevShell logo](http://cdn.manula.com/user/2606/logo.png)
 _This repository is about version 3.5, aka "transitional". This is the current development version._
 
